@@ -1,4 +1,4 @@
-Enunciados das resoluções dos exercícios
+Enunciados das resoluções dos exercícios acima
 
 Exercício 03:
 
