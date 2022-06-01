@@ -1,0 +1,11 @@
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício_03.Form1.resources
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício_03.Properties.Resources.resources
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.csproj.GenerateResource.cache
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\bin\Debug\Exercício 03.exe.config
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\bin\Debug\Exercício 03.exe
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\bin\Debug\Exercício 03.pdb
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.exe
+C:\Users\rs323\Desktop\2º Semestre\Linguagem de Programação\Exercícios para entregar\Exercício 03\Exercício 03\Exercício 03\obj\Debug\Exercício 03.pdb
